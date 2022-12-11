@@ -1,0 +1,28 @@
+.glass-img{
+    position: absolute;
+    top: 108px;
+    left: 80px;
+    width: 55%;
+    opacity: 0.9;
+}
+
+.card-body{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(255, 166, 0, 0.7);
+    padding: 10px;
+}
+
+h5{
+    color: blue;
+}
+
+p{
+    color: white;
+}
+
+span{
+    font-size: 20px;
+    color: red;
+}
